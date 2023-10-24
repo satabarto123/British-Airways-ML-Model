@@ -3,3 +3,136 @@ We have used 124 parameters.
 Here some parameters that are name based (place or day) We created one feature for each possibility of name.
 For example if we have 7 days ... monday has one feature , tuesday has one feature and so on..
 The data was given by British Airways itself.
+
+
+Feature Names are as follows :
+
+
+1.	num_passengers
+2.	purchase_lead
+3.	length_of_stay
+4.	flight_hour
+5.	wants_extra_baggage
+6.	wants_preferred_seat
+7.	wants_in_flight_meals
+8.	flight_duration
+9.	sales_channel_Internet
+10.	sales_channel_Mobile
+11.	trip_type_CircleTrip
+12.	trip_type_OneWay
+13.	trip_type_RoundTrip
+14.	flight_day_Fri
+15.	flight_day_Mon
+16.	flight_day_Sat
+17.	flight_day_Sun
+18.	flight_day_Thu
+19.	flight_day_Tue
+20.	flight_day_Wed
+21.	booking_origin_(not set)
+22.	booking_origin_Afghanistan
+23.	booking_origin_Algeria
+24.	booking_origin_Argentina
+25.	booking_origin_Australia
+26.	booking_origin_Austria
+27.	booking_origin_Bahrain
+28.	booking_origin_Bangladesh
+29.	booking_origin_Belarus
+30.	booking_origin_Belgium
+31.	booking_origin_Bhutan
+32.	booking_origin_Brazil
+33.	booking_origin_Brunei
+34.	booking_origin_Bulgaria
+35.	booking_origin_Cambodia
+36.	booking_origin_Canada
+37.	booking_origin_Chile
+38.	booking_origin_China
+39.	booking_origin_Colombia
+40.	booking_origin_Croatia
+41.	booking_origin_Cyprus
+42.	booking_origin_Czech Republic
+43.	booking_origin_Czechia
+44.	booking_origin_Denmark
+45.	booking_origin_Egypt
+46.	booking_origin_Estonia
+47.	booking_origin_Finland
+48.	booking_origin_France
+49.	booking_origin_Germany
+50.	booking_origin_Ghana
+51.	booking_origin_Gibraltar
+52.	booking_origin_Greece
+53.	booking_origin_Guam
+54.	booking_origin_Guatemala
+55.	booking_origin_Hong Kong
+56.	booking_origin_Hungary
+57.	booking_origin_India
+58.	booking_origin_Indonesia
+59.	booking_origin_Iran
+60.	booking_origin_Iraq
+61.	booking_origin_Ireland
+62.	booking_origin_Israel
+63.	booking_origin_Italy
+64.	booking_origin_Japan
+65.	booking_origin_Jordan
+66.	booking_origin_Kazakhstan
+67.	booking_origin_Kenya
+68.	booking_origin_Kuwait
+69.	booking_origin_Laos
+70.	booking_origin_Lebanon
+71.	booking_origin_Macau
+72.	booking_origin_Malaysia
+73.	booking_origin_Maldives
+74.	booking_origin_Malta
+75.	booking_origin_Mauritius
+76.	booking_origin_Mexico
+77.	booking_origin_Mongolia
+78.	booking_origin_Myanmar (Burma)
+79.	booking_origin_Nepal
+80.	booking_origin_Netherlands
+81.	booking_origin_New Caledonia
+82.	booking_origin_New Zealand
+83.	booking_origin_Nicaragua
+84.	booking_origin_Norfolk Island
+85.	booking_origin_Norway
+86.	booking_origin_Oman
+87.	booking_origin_Pakistan
+88.	booking_origin_Panama
+89.	booking_origin_Papua New Guinea
+90.	booking_origin_Paraguay
+91.	booking_origin_Peru
+92.	booking_origin_Philippines
+93.	booking_origin_Poland
+94.	booking_origin_Portugal
+95.	booking_origin_Qatar
+96.	booking_origin_Romania
+97.	booking_origin_Russia
+98.	booking_origin_Réunion
+99.	booking_origin_Saudi Arabia
+100.	booking_origin_Seychelles
+101.	booking_origin_Singapore
+102.	booking_origin_Slovakia
+103.	booking_origin_Slovenia
+104.	booking_origin_Solomon Islands
+105.	booking_origin_South Africa
+106.	booking_origin_South Korea
+107.	booking_origin_Spain
+108.	booking_origin_Sri Lanka
+109.	booking_origin_Svalbard & Jan Mayen
+110.	booking_origin_Sweden
+111.	booking_origin_Switzerland
+112.	booking_origin_Taiwan
+113.	booking_origin_Tanzania
+114.	booking_origin_Thailand
+115.	booking_origin_Timor-Leste
+116.	booking_origin_Tonga
+117.	booking_origin_Tunisia
+118.	booking_origin_Turkey
+119.	booking_origin_Ukraine
+120.	booking_origin_United Arab Emirates
+121.	booking_origin_United Kingdom
+122.	booking_origin_United States
+123.	booking_origin_Vanuatu
+124.	booking_origin_Vietnam
+
+
+
+
