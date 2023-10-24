@@ -1,0 +1,5 @@
+THis code can work at 86% + accuracy
+We have used 124 parameters.
+Here some parameters that are name based (place or day) We created one feature for each possibility of name.
+For example if we have 7 days ... monday has one feature , tuesday has one feature and so on..
+The data was given by British Airways itself.
