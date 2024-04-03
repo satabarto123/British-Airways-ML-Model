@@ -43,6 +43,9 @@ print(f"Accuracy: {accuracy:.2f}")
 print("Classification Report:")
 print(report)
 
+#final acc=96.8%
+
+
 # Print the feature names and their mapping (e.g., "sales_channel_Online")
 feature_names = X.columns
 print("Feature Names:")
